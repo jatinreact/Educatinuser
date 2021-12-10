@@ -1,0 +1,44 @@
+.registration_form {
+    width: 400px;
+    margin: auto;
+}
+.register_para {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+.Register_btn.text-center.mt-3 {
+    background-color: #ff5c00;
+    color: #FFF;
+    padding: 3px 0px;
+  }
+  .btn_bck {
+    color: #FFF !important;
+    width: 100%;
+    text-decoration: none;
+    outline: none !important;
+}
+.register_detail{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.sign_up_btn{
+    color: #FFF !important;
+    background-color: aqua !important;
+    padding: 8px 24px !important;
+   
+    border: none !important;
+}
+.sign_up_btn:hover{
+   
+    background-color: rgb(206, 151, 33) !important;
+   
+}
+.link_color_login{
+  color: aqua !important;
+  font-size: 17px !important;
+  cursor: pointer;
+}

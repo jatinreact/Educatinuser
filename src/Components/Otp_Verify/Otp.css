@@ -1,0 +1,18 @@
+.otp_form{
+    display: flex;
+    box-sizing: border-box;
+    height: auto;
+
+}
+.submit_otp{
+    background-color: aqua !important;
+    padding: 7px 15px !important;
+    color: #FFF !important;
+
+}
+.otp_tab_btn{
+    display: flex !important;
+    box-sizing: border-box !important;
+    height: auto !important;
+    
+}
